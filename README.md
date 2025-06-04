@@ -67,6 +67,8 @@ Preprocessing involved bandpass filtering, downsampling, and feature extraction 
   - Final features: 50 samples per selected channel.
 - **Application**: BCIs for communication through attention (e.g., selecting characters on a screen).
 
+  ![P300](images/P300.png)
+
 ---
 
 ### 2. Cognitive Task Classification
