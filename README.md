@@ -1,1 +1,1 @@
-# EEG-Cognitive-Task-Classification
+# EEG Brain Activity Analysis with Machine Learning
