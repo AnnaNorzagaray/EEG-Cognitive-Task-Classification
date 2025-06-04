@@ -2,7 +2,7 @@
 
 ## 🧠 Project Overview
 
-This project explores how to analyze brain activity using **electroencephalography (EEG)** signals and classify cognitive states through **machine learning models**. It was developed for the course **TC2034 - Modeling Learning with Artificial Intelligence**.
+This project explores how to analyze brain activity using **electroencephalography (EEG)** signals and classify cognitive states through **machine learning models**. 
 
 EEG data was collected using the **Unicorn Hybrid Black** device, and multiple experiments were conducted to classify different types of brain responses, such as:
 
