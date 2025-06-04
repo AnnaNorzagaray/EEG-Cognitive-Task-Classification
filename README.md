@@ -13,7 +13,7 @@ EEG data was collected using the **Unicorn Hybrid Black** device, and multiple e
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Project Description](#project-description)
 - [EEG Signal Acquisition](#eeg-signal-acquisition)
@@ -30,7 +30,7 @@ EEG data was collected using the **Unicorn Hybrid Black** device, and multiple e
 
 ---
 
-## 🧾 Project Description
+## Project Description
 
 The goal of this project is to classify brain states using machine learning on EEG data. Signals were acquired while participants performed various tasks, and models were trained to detect specific patterns related to attention, cognition, and mental effort.
 
@@ -95,7 +95,7 @@ Preprocessing involved bandpass filtering, downsampling, and feature extraction 
 
 ---
 
-## 🤖 Machine Learning Models
+## Machine Learning Models
 
 The following models were trained and evaluated:
 
@@ -109,7 +109,7 @@ Each model's hyperparameters (e.g., activation functions, hidden layers) were op
 
 ---
 
-## 📊 Results Summary
+##  Results Summary
 
 ### P300 vs Non-P300
 
@@ -133,7 +133,7 @@ Each model's hyperparameters (e.g., activation functions, hidden layers) were op
 
 ---
 
-## 🧩 Feature Selection
+##  Feature Selection
 
 Reducing features helped:
 - Decrease training time
@@ -142,7 +142,7 @@ Reducing features helped:
 
 ---
 
-## 🔁 Transfer Learning
+## Transfer Learning
 
 Attempted transferring models across participants. Performance was limited due to:
 - High inter-subject variability in EEG signals
@@ -157,16 +157,4 @@ Attempted transferring models across participants. Performance was limited due t
 - **NumPy**, **Pandas**, **Matplotlib**
 - **Unicorn Hybrid Black** (EEG device)
 
----
 
-## 👩‍💻 Author
-
-**Anna Claudia Norzagaray Márquez**  
-Student ID: A01640991  
-Date: June 14, 2023
-
----
-
-## 📌 Final Notes
-
-Monitoring EEG data and applying machine learning offers a powerful way to interpret brain activity. While limited by data size, this project demonstrates meaningful results and highlights the potential for BCI and cognitive-state applications.
